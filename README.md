@@ -18,4 +18,7 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 Project 1 exercise -6
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1043642082484842/1589271970903228/8529927449925917/latest.html
 
+Original questions located at:
+https://github.com/databricks-academy/developer-foundations-capstone/tree/published/Developer-Foundations-Capstone
 
+Thank You!
